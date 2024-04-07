@@ -10,6 +10,13 @@ The ML-Based Student Housing Solution aims to simplify the process of finding th
 - **Dataset Utilization**: Analysis of Kaggle's comprehensive dataset on college students' food choices and preferences to inform housing categorization.
 - **Geolocation Mapping**: Integration of the Foursquare API for accurate accommodation locations, visualized through Folium maps.
 
+## Use Cases
+
+This Project can be valuable for:
+- Incoming students to help them find best accommodation on the basis of their preferences on amenities, budget, and proximity to the location
+- Local businesses can use the demographic and geolocation data from this project for optimal site selection, reducing commute times, improving customer experiences, and fostering sustainable urban development
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
